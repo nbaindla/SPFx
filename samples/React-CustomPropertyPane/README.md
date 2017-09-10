@@ -1,10 +1,10 @@
-## React Custom Pproperty Pane Web Part
+## React Custom Property Pane Web Part
 
 ## Summary
 
 Sample SharePoint Framework client-side web part built using React illustrating custom web part properties with dynamically loading Lists, Libraries and views based on List/Library selection.
 
-(./assets/ReactCustomPropertyPane.gif)
+![Trending in this site Web Part in the SharePoint Workbench](./assets/ReactCustomPropertyPane.gif)
 
 ## Applies to
 
