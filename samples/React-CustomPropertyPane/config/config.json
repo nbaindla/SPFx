@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/reactCustomPropertyPane/ReactCustomPropertyPaneWebPart.js",
+      "manifest": "./src/webparts/reactCustomPropertyPane/ReactCustomPropertyPaneWebPart.manifest.json",
+      "outputPath": "./dist/react-custom-property-pane.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "reactCustomPropertyPaneStrings": "webparts/reactCustomPropertyPane/loc/{locale}.js"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "react-custom-property-pane-client-side-solution",
+    "id": "872fef3d-a07b-4a09-8a01-ce692ffd0d3d",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/react-custom-property-pane.sppkg"
+  }
+}
